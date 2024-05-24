@@ -20,7 +20,7 @@ _I complete the given applications during this education program with various te
 
 ---
 
-## YetGen Core Python 1.Hafta İçerikleri
+## 1.Hafta İçerikleri
 
 - Kodlama ve Python'a Giriş
 - Python ve Visual Studio Code Kurulumu
