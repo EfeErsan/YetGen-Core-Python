@@ -7,4 +7,3 @@
 - Git Nedir ve Kurulumu
 - GitHub Nedir, Hesap Oluşturma ve Kavramlar
 - Markdown Nedir ve README.md Nasıl Yazılır?
-![YetGen][https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png]
