@@ -19,3 +19,12 @@ _I complete the given applications during this education program with various te
 [yetkingencler.com](yetkingencler.com)
 
 ---
+
+## YetGen Core Python 1.Hafta İçerikleri
+
+- Kodlama ve Python'a Giriş
+- Python ve Visual Studio Code Kurulumu
+- Git Nedir ve Kurulumu
+- GitHub Nedir, Hesap Oluşturma ve Kavramlar
+- Markdown Nedir ve README.md Nasıl Yazılır?
+---
