@@ -4,6 +4,6 @@
 
 ### Aşağıda öğrendiğim konuları sizlere derledim.
 
-- Github üzerinde profilimiz nasıl güzelleştirilir?
-- Github Desktop nasıl kullanılır?
-- Markdown kullanmak
+- Github kullanımı
+- Github Desktop kullanımı
+- Markdown kullanımı
