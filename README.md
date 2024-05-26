@@ -19,3 +19,28 @@ _I complete the given applications during this education program with various te
 [yetkingencler.com](yetkingencler.com)
 
 ---
+
+## 1.Hafta İçerikleri
+
+- Kodlama ve Python'a Giriş
+- Python ve Visual Studio Code Kurulumu
+- Git Nedir ve Kurulumu
+- GitHub Nedir, Hesap Oluşturma ve Kavramlar
+- Markdown Nedir ve README.md Nasıl Yazılır?
+---
+## 2.Hafta İçerikleri
+
+- Print fonksiyonu nedir ne işe yarar ve parametleri nelerdir?
+
+- Yorum Satıları
+
+- Değişkenler ve tanımlama kuralları
+
+- Type fonksiyonu
+
+- Sayı veri türleri ve matematiksel işlemler
+
+- String, boolean veri türleri
+
+- Input fonksiyonu
+---
