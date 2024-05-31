@@ -20,27 +20,19 @@ _I complete the given applications during this education program with various te
 
 ---
 
-## 1.Hafta İçerikleri
+## Week 1 Content
+- Introduction to Coding and Python
+- Installing Python and Visual Studio Code
+- What is Git and How to Install It
+- What is GitHub, Creating an Account, and Concepts
+- What is Markdown and How to Write a README.md?
 
-- Kodlama ve Python'a Giriş
-- Python ve Visual Studio Code Kurulumu
-- Git Nedir ve Kurulumu
-- GitHub Nedir, Hesap Oluşturma ve Kavramlar
-- Markdown Nedir ve README.md Nasıl Yazılır?
----
-## 2.Hafta İçerikleri
-
-- Print fonksiyonu nedir ne işe yarar ve parametleri nelerdir?
-
-- Yorum Satıları
-
-- Değişkenler ve tanımlama kuralları
-
-- Type fonksiyonu
-
-- Sayı veri türleri ve matematiksel işlemler
-
-- String, boolean veri türleri
-
-- Input fonksiyonu
+## Week 2 Content
+- What is the print function, what does it do, and what are its parameters?
+- Comments
+- Variables and Naming Rules
+- The type function
+- Number data types and mathematical operations
+- String and Boolean data types
+- The input function
 ---
