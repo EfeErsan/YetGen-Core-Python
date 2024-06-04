@@ -13,6 +13,4 @@
 - String, boolean veri türleri
 
 - Input fonksiyonu
-
-#### Bu içerikleri öğrendikten sonra verilen ödevi yaptım.
 ---
